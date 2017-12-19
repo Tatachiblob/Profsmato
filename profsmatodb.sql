@@ -635,7 +635,7 @@ INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `dep
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('shera_pausang@dlsu.edu.ph', 'Pausang', 'Shera Marie', 'MATH', NULL, 'default.png', 1);
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('edmundo_perez@dlsu.edu.ph', 'Perez Jr', 'Edmundo', 'MATH', NULL, 'default.png', 1);
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('rigor_ponsones@dlsu.edu.ph', 'Ponsones', 'Rigor', 'MATH', NULL, 'default.png', 1);
-INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('jose_reyes@dlsu.edu.ph', 'Reyes', 'Jose Tristan', 'MATH', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('jose_tristan_reyes@dlsu.edu.ph', 'Reyes', 'Jose Tristan', 'MATH', NULL, 'default.png', 1);
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('maria_reyes@dlsu.edu.ph', 'Reyes', 'Maria Angeli', 'MATH', NULL, 'default.png', 1);
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('leonor_ruividar@dlsu.edu.ph', 'Ruividar', 'Leonor', 'MATH', NULL, 'default.png', 1);
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('bernadette_santos@dlsu.edu.ph', 'Santos', 'Bernadette Louise', 'MATH', NULL, 'default.png', 1);
@@ -968,6 +968,33 @@ INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `dep
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('florenz_tugas@dlsu.edu.ph', 'Tugas', 'Florenz', 'ACCT', NULL, 'default.png', 1);
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('elsie_velasco@dlsu.edu.ph', 'Velasco', 'Elsie', 'ACCT', NULL, 'default.png', 1);
 INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('francisco_villamin@dlsu.edu.ph', 'Villamin Jr', 'Francisco', 'ACCT', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('victor_ang@dlsu.edu.ph', 'Ang', 'Victor Reynaldo', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('micheal_azucena@dlsu.edu.ph', 'Azucena', 'Micheal', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('hilario_caraan@dlsu.edu.ph', 'Caraan', 'Hilario', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('katrina_pearl_chua@dlsu.edu.ph', 'Chua', 'Katrina Pearl', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('rex_cruz@dlsu.edu.ph', 'Cruz', 'Rex Enrico', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('micheal_gerald_david@dlsu.edu.ph', 'David', 'Micheal Gerald', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('andre_dejesus@dlsu.edu.ph', 'De Jesus', 'Andre', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('darren_dejesus@dlsu.edu.ph', 'De Jesus', 'Darren', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('roxanne_dimayuga@dlsu.edu.ph', 'Dimayuga', 'Roxanne', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('araceli_habaradas@dlsu.edu.ph', 'Habaradas', 'Ma. Araceli', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('raymund_habaradas@dlsu.edu.ph', 'Habaradas', 'Raymund', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('james_heffron@dlsu.edu.ph', 'Heffron', 'James Keith', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('larry_ignacio@dlsu.edu.ph', 'Ignacio', 'Larry', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('arvin_jo@dlsu.edu.ph', 'Jo', 'Arvin', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('lorna_lugod@dlsu.edu.ph', 'Lugod', 'Lorna', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('zenaida_manalo@dlsu.edu.ph', 'Manalo', 'Zenaida', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('patrick_perillo@dlsu.edu.ph', 'Perillo', 'Patrick', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('ryan_quan@dlsu.edu.ph', 'Quan', 'Ryan', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('jayson_ramos@dlsu.edu.ph', 'Ramos', 'Jayson', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('jose_reyes@dlsu.edu.ph', 'Reyes', 'Jose', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('reynaldo_ros@dlsu.edu.ph', 'Ros', 'Reynaldo', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('jan_salud@dlsu.edu.ph', 'Salud', 'Jan Raphael Rivera', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('voltaire_salud@dlsu.edu.ph', 'Salud', 'Voltaire Borja', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('justin_sucgang@dlsu.edu.ph', 'Sucgang', 'Justin', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('emily_salcedo@dlsu.edu.ph', 'Salcedo', 'Emily', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('karen_torres@dlsu.edu.ph', 'Torres', 'Karen', 'CLD', NULL, 'default.png', 1);
+INSERT INTO `profsmato`.`Professors` (`profEmail`, `lastname`, `firstname`, `department`, `about`, `profPicture`, `status`) VALUES ('jan_uy@dlsu.edu.ph', 'Uy', 'Jan Reiner', 'CLD', NULL, 'default.png', 1);
 
 COMMIT;
 
